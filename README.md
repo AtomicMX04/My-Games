@@ -24,7 +24,7 @@ Este repositorio contiene versiones empaquetadas de juegos basados en tecnologí
 
 ## 📥 Descarga e Instalación
 Para empezar a jugar de inmediato:
-1. Dirígete a la sección de **[Releases](../../releases)** de este repositorio.
+1. Dirígete a la sección de **[Releases](https://github.com/AtomicMX04/My-Games/releases/tag/v1.0.0)** de este repositorio.
 2. Descarga el paquete correspondiente a la última versión disponible.
 3. Descomprime el archivo en cualquier carpeta de tu ordenador.
 4. Ejecuta el archivo ejecutable (`.exe`) y ¡listo!
